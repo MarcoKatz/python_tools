@@ -9,7 +9,6 @@ Tools to be re-usable in the future, given some additional effort to make them
 more generic and capable
   * structured selection of 1 or more choices by users, among several offered
   * table-format printing
-Erroneous addition to readme
 
 ### Files used
 seek_choices.py
